@@ -22,5 +22,5 @@ This project is an **Automated Stock Sentiment Analyzer** that scrapes finance h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-sentiment-analyzer.git
+   git clone https://github.com/yourusername/stock-sentiment-analyzer1.git
    cd stock-sentiment-analyzer
